@@ -2,6 +2,9 @@
 
 A simple yet powerful Chrome extension to save and manage your important links and current tab URLs.
 
+## ✨ See it
+<img width="1358" height="264" alt="shoot" src="https://github.com/user-attachments/assets/f76c9478-6f9f-4004-959f-b3cd4dcee696" />
+
 ## ✨ Features
 
 - **Save Manual Input** - Enter any URL or text and save it to your list
